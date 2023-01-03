@@ -11,4 +11,6 @@
 
 <h2>Tools and Technologies</h2>
 <a href="https://www.postman.com/"><img src="https://github.com/SergeiAkul/SergeiAkul/blob/main/icons/Postman.png" alt="https://www.postman.com/" style="width:42px;height:42px;"></a> 
-<a href="https://qase.io/"><img src="https://github.com/SergeiAkul/SergeiAkul/blob/main/icons/Qase.io.png" alt="https://www.qase.io/" style="width:42px;height:42px;"></a>
+<a href="https://www.qase.io/"><img src="https://github.com/SergeiAkul/SergeiAkul/blob/main/icons/Qase.io.png" alt="https://www.qase.io/" style="width:42px;height:42px;"></a>
+<a href="https://www.atlassian.com/"><img src="https://github.com/SergeiAkul/SergeiAkul/blob/main/icons/Jira.png" alt="https://www.atlassian.com/" style="width:42px;height:42px;"></a>
+<a href="https://www.gurock.com/testrail/"><img src="https://github.com/SergeiAkul/SergeiAkul/blob/main/icons/TestRail.png" alt="https://http://www.gurock.com/testrail/" style="width:42px;height:42px;"></a>
