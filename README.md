@@ -6,6 +6,7 @@
 
 [rabota.by](https://rabota.by/resume/2596e9b3ff09aef1200039ed1f6d744e396173)
 
+![](https://www.postman.com/)
 <h2>My CV</h2>
 <h2>My CV</h2>
 <h2>My CV</h2>
