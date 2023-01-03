@@ -4,4 +4,4 @@
 
 My CV
 
-[fffff](https://github.com/qajenna#my-cv)
+[fffff](https://rabota.by/resume/2596e9b3ff09aef1200039ed1f6d744e396173)
