@@ -10,5 +10,5 @@
 
 
 <h2>Tools and Technologies</h2>
-<a href="https://www.postman.com/"><img src="https://github.com/qajenna/qajenna/raw/main/icons/Postman.png" alt="https://www.postman.com/" style="width:42px;height:42px;"></a> 
+<a href="https://www.postman.com/"><img src="https://github.com/SergeiAkul/SergeiAkul/blob/main/icons/Postman.png" alt="https://www.postman.com/" style="width:42px;height:42px;"></a> 
 <a href="https://qase.io/"><img src="https://github.com/qajenna/qajenna/raw/main/icons/Postman.png" alt="https://www.postman.com/" style="width:42px;height:42px;"></a>
