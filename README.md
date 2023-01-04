@@ -18,3 +18,4 @@
 <a href="https://www.swagger.io"><img src="https://github.com/SergeiAkul/SergeiAkul/blob/main/icons/swagger.png" alt="https://http://swagger.io" style="width:42px;height:42px;"></a>
 <a href="https://www.developer.android.com/studio"><img src="https://github.com/SergeiAkul/SergeiAkul/blob/main/icons/Android%20Studio.png" alt="https://wwww.developer.android.com/studio" style="width:42px;height:42px;"></a>
 <a href="https://www.redmine.org/"><img src="https://github.com/SergeiAkul/SergeiAkul/blob/main/icons/Redmine.png" alt="https://www.redmine.org/" style="width:42px;height:42px;"></a>
+<a href="https://www.github.com/"><img src="https://github.com/SergeiAkul/SergeiAkul/blob/main/icons/GitHub.png" alt="https://www.github.com" style="width:42px;height:42px;"></a>
