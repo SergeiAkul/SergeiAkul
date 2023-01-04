@@ -20,3 +20,4 @@
 <a href="https://www.redmine.org/"><img src="https://github.com/SergeiAkul/SergeiAkul/blob/main/icons/Redmine.png" alt="https://www.redmine.org/" style="width:42px;height:42px;"></a>
 <a href="https://www.github.com/"><img src="https://github.com/SergeiAkul/SergeiAkul/blob/main/icons/GitHub.png" alt="https://www.github.com/" style="width:42px;height:42px;"></a>
 <a href="https://git-scm.com/"><img src="https://github.com/SergeiAkul/SergeiAkul/blob/main/icons/Gitbash.png" alt="https://git-scm.com/" style="width:42px;height:42px;"></a>
+<a href="https://mysql.com/"><img src="https://github.com/SergeiAkul/SergeiAkul/blob/main/icons/MySQL.png" alt="https://mysql.com/" style="width:42px;height:42px;"></a>
