@@ -3,8 +3,8 @@
 
 
 <h2>My CV</h2>
-
-[CV](https://rabota.by/resume/2596e9b3ff09aef1200039ed1f6d744e396173)
+<a href="https://rabota.by/resume/2596e9b3ff09aef1200039ed1f6d744e396173"><img src="https://github.com/SergeiAkul/SergeiAkul/blob/main/icons/CV.png" alt="https://rabota.by/resume/2596e9b3ff09aef1200039ed1f6d744e396173" style="width:42px;height:42px;"></a>
+[https://github.com/SergeiAkul/SergeiAkul/blob/main/icons/CV.png](https://rabota.by/resume/2596e9b3ff09aef1200039ed1f6d744e396173)
 
 <h2>Portfolio</h2>
 
