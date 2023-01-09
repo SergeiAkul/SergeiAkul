@@ -12,7 +12,7 @@
 
 <h2>Postman collections</h2>
 <a href="https://github.com/SergeiAkul/Postman_Collection/blob/main/Stepik.postman_collection.json"><img src="https://github.com/SergeiAkul/SergeiAkul/blob/main/icons/stepik1.png" alt="https://github.com/SergeiAkul/Postman_Collection/blob/main/Stepik.postman_collection.json" style="width:42px;height:42px;"></a>
-
+<a href="https://github.com/SergeiAkul/Postman_Collection/blob/main/Practice%20for%20petstore.postman_collection.json"><img src="https://github.com/SergeiAkul/SergeiAkul/blob/main/icons/Collection1.png" alt="https://github.com/SergeiAkul/Postman_Collection/blob/main/Practice%20for%20petstore.postman_collection.json" style="width:42px;height:42px;"></a>
 
 
 <h2>Tools and Technologies</h2>
