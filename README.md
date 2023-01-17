@@ -31,6 +31,7 @@
 <a href="https://git-scm.com/"><img src="https://github.com/SergeiAkul/SergeiAkul/blob/main/icons/Gitbash.png" alt="https://git-scm.com/" style="width:42px;height:42px;"></a>
 <a href="https://mysql.com/"><img src="https://github.com/SergeiAkul/SergeiAkul/blob/main/icons/MySQL.png" alt="https://mysql.com/" style="width:42px;height:42px;"></a>
 <a href="https://www.vegascreativesoftware.com/"><img src="https://github.com/SergeiAkul/SergeiAkul/blob/main/icons/Vegas.png" alt="https://www.vegascreativesoftware.com/" style="width:42px;height:42px;"></a>
+<a href="https://www.charlesproxy.com/"><img src="https://github.com/SergeiAkul/SergeiAkul/blob/main/icons/charles.png" alt="https://www.charlesproxy.com/" style="width:42px;height:42px;"></a>
 
 
 <h2>My Hobby</h2>
